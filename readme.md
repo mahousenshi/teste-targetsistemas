@@ -1,4 +1,4 @@
-# Teste Tecnico Target Sistemas 
+# Teste técnico Target Sistemas 
 
 1) Observe o trecho de código abaixo:
 
@@ -21,7 +21,9 @@ IMPORTANTE: Esse número pode ser informado através de qualquer entrada de sua 
 * Número de dias no mês em que o valor de faturamento diário foi superior à média mensal. 
 
 IMPORTANTE: 
-a. Usar o json ou xml disponível como fonte dos dados do faturamento mensal; 
+
+a. Usar o json ou xml disponível como fonte dos dados do faturamento mensal;
+
 b. Podem existir dias sem faturamento, como nos finais de semana e feriados. Estes dias devem ser ignorados no cálculo da média; 
 
 4) Dado o valor de faturamento mensal de uma distribuidora, detalhado por estado: 
@@ -37,5 +39,7 @@ Escreva um programa na linguagem que desejar onde calcule o percentual de repres
 5) Escreva um programa que inverta os caracteres de um string. 
 
 IMPORTANTE: 
+
 a. Essa string pode ser informada através de qualquer entrada de sua preferência ou pode ser previamente definida no código; 
+
 b. Evite usar funções prontas, como, por exemplo, reverse;
